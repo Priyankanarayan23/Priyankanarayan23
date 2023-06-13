@@ -14,7 +14,7 @@ Please do not hesitate to reach out to me for a discussion on potential collabor
 <p>🌱 I'm currently learning Node Js</p>
 <p>💬 Ask me about Front End Dev</p>
 <p>📫 How to reach me? priyankanarayan2305021@gmail.com</p>
-<p>Know about my experiences <a href="https://drive.google.com/file/d/1zZjSmt2JPClUUyjQwLdvUHK5aNsL18Tk/view?usp=sharing">here</a></p>
+<p>Know about my experiences <a href="https://drive.google.com/file/d/1sg8JnJMlUz-6sdhZLDxHXlKHaqvwhr9a/view?usp=sharing">here</a></p>
 <p>⚡ Fun Fact: I love Anime</p>
 
 ## 💻 Skills
@@ -46,6 +46,4 @@ Please do not hesitate to reach out to me for a discussion on potential collabor
 <p><img src="https://github-profile-trophy.vercel.app/?username=Priyankanarayan23">
 </p>
 
-## 📊 Github Status
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Priyankanarayan23&show_icons=true"><p>
